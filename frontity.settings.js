@@ -2,7 +2,7 @@ const settings = {
   "name": "my-app",
   "state": {
     "frontity": {
-      "url": "http://virgilio.inmo.cloud/v6/",
+      "url": "https://virgilio.inmo.cloud/v6/",
       "title": "Prueba de Frontity",
       "description": "WordPress installation for Frontity development"
     }
@@ -15,7 +15,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "http://virgilio.inmo.cloud/v6/wp-json",
+          "api": "https://virgilio.inmo.cloud/v6/wp-json",
           "postTypes": [
             {
               type: "property",
