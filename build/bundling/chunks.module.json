@@ -2,16 +2,45 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "77d7f8f6ece858af0896",
+  "hash": "3cfff61ec45984114403",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\virgi\\Desktop\\Ract\\my-app\\build\\static",
   "assetsByChunkName": {
-    "my-app": "my-app.module.js"
+    "my-app": [
+      "my-app.module.js",
+      "my-app.82ae954f3c2db20ee443.hot-update.js"
+    ]
   },
   "assets": [
     {
+      "name": "82ae954f3c2db20ee443.hot-update.json",
+      "size": 48,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "my-app.82ae954f3c2db20ee443.hot-update.js",
+      "size": 1711,
+      "chunks": [
+        "my-app"
+      ],
+      "chunkNames": [
+        "my-app"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
       "name": "my-app.module.js",
-      "size": 4964493,
+      "size": 5074333,
       "chunks": [
         "my-app"
       ],
@@ -29,7 +58,8 @@
         "my-app"
       ],
       "assets": [
-        "my-app.module.js"
+        "my-app.module.js",
+        "my-app.82ae954f3c2db20ee443.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -41,7 +71,8 @@
         "my-app"
       ],
       "assets": [
-        "my-app.module.js"
+        "my-app.module.js",
+        "my-app.82ae954f3c2db20ee443.hot-update.js"
       ],
       "children": {},
       "childAssets": {}

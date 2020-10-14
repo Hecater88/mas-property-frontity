@@ -37,8 +37,9 @@ const settings = {
         }
       }
     },
+    "frontity-contact-form-7",
     "@frontity/tiny-router",
-    "@frontity/html2react"
+    "@frontity/html2react",
   ]
 };
 
